@@ -38,7 +38,7 @@ ruamel-yaml==0.15.87
 scikit-learn>=0.24.1
 scipy>=0.15.1
 six
-tensorboard==2.4.0
+tensorboard
 tensorboard-plugin-wit==1.7.0
 tensorflow==2.5.0
 tensorflow-estimator
